@@ -1,0 +1,10 @@
+alembic==1.7.7
+fastapi==0.77.1
+uvicorn==0.17.6
+asyncpg==0.25.0
+SQLAlchemy==1.4.36
+psycopg2-binary==2.9.3
+
+#dev
+pytest==7.1.2
+requests==2.27.1
